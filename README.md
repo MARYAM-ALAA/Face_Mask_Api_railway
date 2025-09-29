@@ -1,2 +1,0 @@
-# Face_Mask_Api_railway
-Face_Mask_Api_railway
